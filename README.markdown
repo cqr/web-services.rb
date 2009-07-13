@@ -9,7 +9,7 @@ in the closet.
 
 So far, all we have is last.fm recent tracks and tumblr.com recent posts.
 
-    reqire 'last.fm'
+    require 'last.fm'
     require 'pp'
     
     Last.fm::API_KEY = 'your last.fm api key'
